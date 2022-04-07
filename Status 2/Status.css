@@ -1,0 +1,66 @@
+body{
+    background: hsl(233, 47%, 7%);
+}
+.Box_1{
+    color: white;
+    background: hsl(244, 38%, 16%);
+
+    font-size: 15px;
+    
+    width: 470px;
+    height:280px;
+    border: 15px solid hsl(244, 38%, 16%);
+    position: relative;
+    left: 150px;
+    top: 153px;
+    right: 300px;
+    bottom: 120px;
+    
+}
+
+.Box_2{
+    left: 650px;
+    top: 151px;
+    position: absolute;
+
+    
+}
+
+.img{
+    accent-color: auto( hsl(277, 64%, 61%));
+    filter: brightness(78px);
+    
+
+}
+.join{
+    align-items: center;
+    position: absolute;
+}
+.we{
+    text-align: left;
+    padding-left: 80px;
+    color: hsl(0, 0%, 100%, 0.75); 
+}
+
+h1{
+    text-align: center;
+}
+
+
+.company{
+    position: absolute;
+    left: 60px;
+    top: 190px;
+}
+
+.Template{
+    position: absolute;
+    left: 210px;
+    top: 190px;
+}
+
+.Queries{
+    position: absolute;
+    left: 360px;
+    top: 190px;
+}
